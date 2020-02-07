@@ -1,9 +1,12 @@
 # NormalNotepad
-A "Normal" Notepad that is written in Java and Console based.
-## Changelog
-Nothing has been changed as of the initial base release.
+A "Normal" Notepad that is written in Java and Console based. With a twist, that being each document is serialized and the notepad is "HIGHLY" secure! You'll be able to create encrypted documents on the fly! Never have your notes seen by prying eyes ever again!
+## Changelog (2.7.2020 03:40)
+- Implemented Document Object
+- Added Secondary View/Edit Menu
+- Implemented Simple Single Line Documents
+- Implemented Serialization and Deserialization of Documents
 ## Known Bugs
-- Creating, Opening, and Saving Documents is not implemented yet
+- Viewing an empty document causes NullPointerExceptions
 ## Questions and Answers
 - Q: Why is this console based?
 - A: Why not? It's not very practical but it's something I thought would be interesting.
