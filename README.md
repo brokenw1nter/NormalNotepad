@@ -7,6 +7,7 @@ A "Normal" Notepad that is written in Java and Console based. With a twist, that
 - Implemented Serialization and Deserialization of Documents
 ## Known Bugs
 - Viewing an empty document causes NullPointerExceptions
+- Haven't implemented encryption of the serialized documents
 ## Questions and Answers
 - Q: Why is this console based?
 - A: Why not? It's not very practical but it's something I thought would be interesting.
